@@ -2,7 +2,7 @@
 
 This was a group project analysing the driving factors of HDB Resale Prices in Singapore, particularly the effect of public infrastructure. This was published in an online website at https://is428-proj.streamlit.app/
 
-I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dashboard design and formatting, along with the visual design of the website but not the code. I also vetted the predictive model. Other members found sourced other datasets, coded most of the predictive model or the website. The report was equally distributed.
+I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dashboard design and formatting, along with the visual design of the website but not the code. I also vetted the predictive model. Other members sourced the other datasets and coded most of the predictive model or the website. The report was equally distributed.
 
 Included are the Tableau Dashboards, Datasets used and predictive model.
 
