@@ -4,7 +4,7 @@ This was a group project analysing the driving factors of HDB Resale Prices in S
 
 I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dashboard design and formatting, along with the visual design of the website but not the code. I also vetted the predictive model. Other members sourced the other datasets and coded most of the predictive model or the website. The report was equally distributed.
 
-Included are the Tableau Dashboards, Datasets used and predictive model.
+Included are the Tableau Dashboards, datasets used and predictive model.
 
 Due to the large size of the datasets and files, the following files were not uplaoded
 - (facilities added) 1990-2000 Resale Price of Flats.csv
