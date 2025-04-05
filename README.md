@@ -17,7 +17,7 @@ View or Download Dashboard at https://public.tableau.com/app/profile/quek.jensen
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- (facilities added) 2015-2016 Resale Price of Flats.csv
+** (facilities added) 2015-2016 Resale Price of Flats.csv **
 
 This file was uploaded as a preview of the dataset due to its small size. All resale price data has this format but with many more rows of transactions.
 
