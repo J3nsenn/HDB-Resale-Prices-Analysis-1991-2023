@@ -1,7 +1,7 @@
 # HDB-Resale-Prices-Analysis-1991-2023
 
-This was group project and i was reponsible for the dashboard creation, vetting the regression model and some formatting and design of the website/
-Included in this repositry are the Tableau Dashboards, Datasets that we used together, predictive model and web code.
+This was a group project and i was reponsible for dashboard design and formatting, along with the visual design of the website. I also vetted predictive model.
+Included are the Tableau Dashboards, Datasets used, predictive model and web code.
 
 Website where Tableau dashboards and predictive model was published: https://is428-proj.streamlit.app/
 
