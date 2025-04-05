@@ -6,7 +6,7 @@ I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dash
 
 Included are the Tableau Dashboards, datasets used and predictive model.
 
-Due to the large size of the datasets and files, the following files were not uplaoded
+Due to the large size of the datasets and files, the following files were NOT uplaoded
 - (facilities added) 1990-2000 Resale Price of Flats.csv
 - (facilities added) 2000-2012 Resale Price of Flats.csv
 - (facilities added) 2012-2014 Resale Price of Flats.csv
@@ -15,9 +15,9 @@ Due to the large size of the datasets and files, the following files were not up
 - Resale HDB Prices Analysis.twbx
 View or Download Dashboard at https://public.tableau.com/app/profile/quek.jensenn/viz/ResaleHDBPricesAnalysis1991-2023/1_MapDashboard 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-(facilities added) 2015-2016 Resale Price of Flats.csv
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- (facilities added) 2015-2016 Resale Price of Flats.csv
 This file was uploaded as a preview of the dataset due to its small size. All resale price data has this format but with many more rows of transactions.
 
 
