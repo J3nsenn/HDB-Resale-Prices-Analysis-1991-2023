@@ -9,8 +9,8 @@ Due to the large size of the datasets and files, the following files were not up
 - - (facilities added) 2015-2016 Resale Price of Flats.csv
 
 
-This was a group project and i was reponsible for dashboard design and formatting, along with the visual design of the website. I also vetted predictive model.
-Included are the Tableau Dashboards, Datasets used, predictive model and web code.
+This was a group project and i was reponsible for dashboard design and formatting, along with the visual design of the website but not the code. I also vetted predictive model.
+Included are the Tableau Dashboards, Datasets used and predictive model.
 
 Website where Tableau dashboards and predictive model was published: https://is428-proj.streamlit.app/
 
