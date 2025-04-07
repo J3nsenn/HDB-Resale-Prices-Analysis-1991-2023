@@ -4,7 +4,7 @@ This was a group project analysing the driving factors of HDB Resale Prices in S
 
 Included are the Tableau Dashboards, datasets used and predictive model.
 
-Due to the large size of the datasets and files, the following files were NOT uplaoded
+Due to the large size of the datasets and files, the following files were NOT uploaded
 - (facilities added) 1990-2000 Resale Price of Flats.csv
 - (facilities added) 2000-2012 Resale Price of Flats.csv
 - (facilities added) 2012-2014 Resale Price of Flats.csv
