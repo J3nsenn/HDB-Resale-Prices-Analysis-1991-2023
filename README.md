@@ -22,7 +22,7 @@ This file was uploaded as a preview of the dataset due to its small size. All re
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dashboard design and formatting, along with the visual design of the website but not the code. I also vetted the predictive model. Other members sourced the other datasets and coded most of the predictive model or the website. The report was equally distributed.
+I was reponsible for sourcing the resale price dataset, data cleaning, EDA, dashboard design and formatting, along with the visual design of the website but not the web code. I also vetted the predictive model. Other members sourced the other datasets and coded most of the predictive model or the website. The report was equally distributed.
 
 
 
